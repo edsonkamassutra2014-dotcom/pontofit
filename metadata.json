@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Remix: Remix: PontoC Fit 3",
+  "description": "Plataforma fitness para Angola: registre corridas, treinos de musculação, acompanhe calorias e participe de desafios semanais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

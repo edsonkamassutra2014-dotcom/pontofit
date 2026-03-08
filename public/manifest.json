@@ -1,0 +1,20 @@
+{
+  "name": "PontoC Fit",
+  "short_name": "PontoCFit",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#22c55e",
+  "background_color": "#000000",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/CLsWx6mc/Whats-App-Image-2026-03-07-at-21-17-16.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.postimg.cc/CLsWx6mc/Whats-App-Image-2026-03-07-at-21-17-16.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
